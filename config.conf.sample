@@ -1,0 +1,5 @@
+[sanction]
+42.client_id = 1234567890
+42.client_secret = 1234567890
+42.token_url = https://api.intra.42.fr/oauth/token
+42.endpoint = https://api.intra.42.fr
