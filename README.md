@@ -1,1 +1,1 @@
-# 42_logtime
+# 42_logtime## Install### library```pip install sanction```or if you don't have root privileges (e.g. 42 school :D)```pip install sanction --user```### config```cp config.conf.sample config.conf```then add your client_id and client_secret

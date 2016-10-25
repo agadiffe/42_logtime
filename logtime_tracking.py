@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# coding: utf-8
+
 import sys
 from ConfigParser import ConfigParser
 from sanction import Client
