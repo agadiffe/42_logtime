@@ -12,10 +12,6 @@ def get_config():
     config = ConfigParser({}, dict)
     config.read('config.conf') 
     c = config._sections['sanction']
-    if '__name__' in c:
-        del c['__name__']
-    if 'http_debug' in c:
-        c['http_debug'] = c['http_debug'] == 'true'
     return config._sections['sanction']	
 
 

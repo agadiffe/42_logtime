@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# coding: utf-8
+
 from datetime import timedelta as timedelta
 
 def	format_output_timedelta(duration_timedelta):
